@@ -1,0 +1,7 @@
+prepare:
+  train_samples: 20000
+  test_samples: 5000
+train:
+  epochs: 8
+  batch_size: 64
+  learning_rate: 0.001
